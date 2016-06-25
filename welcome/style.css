@@ -1,0 +1,17 @@
+body {
+	background-color:#edeff0;
+	font-family:"helvetica neue";
+	font-size: 16px
+	line-height:1.5;
+}
+.container {
+	background-color:white;
+	width: 700px;
+}
+p {
+	color:#b2bac2;
+}
+h1 {
+	font-size:28px;
+	color:#384047;
+}
